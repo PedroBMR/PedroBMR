@@ -1,3 +1,5 @@
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+
 # 👋 Hi, I'm Pedro!
 - 🔭 I’m currently working on developing an MMORPG under my company, Arcadia Realms.
 - 🌱 I’m currently learning about QA, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>.
@@ -16,8 +18,6 @@ As a Game Developer with a passion for creating immersive digital worlds, I brin
 ### Faces de Charlie 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="80" height="80" />
           
-          
-          
 _Project for Final Graduation, Universidade do Vale do Itajaí, 2019_
 
 - Developed an interactive narrative game exploring the dual lives of an elderly protagonist in a retirement home.
@@ -26,7 +26,6 @@ _Project for Final Graduation, Universidade do Vale do Itajaí, 2019_
 
 ### Where Dragons Dwell VR 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="80" height="80"/>
-          
           
 _University Project, Universidade do Vale do Itajaí, 2017_
 
@@ -50,3 +49,5 @@ _University Project, Universidade do Vale do Itajaí, 2017_
 - **Email:** [pedroluizbmr@gmail.com](mailto:pedroluizbmr@gmail.com)
 - **Portfolio:** [ArtStation](https://www.artstation.com/pedrobm)
 - **LinkedIn:** [Pedro Luiz BMR](https://www.linkedin.com/in/pedroluizbmr)
+
+</div>
