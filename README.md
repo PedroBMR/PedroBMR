@@ -11,11 +11,6 @@ App desktop *local-first* para manutenção de impressoras 3D — controle de ta
 ### 💰 PrintQuote
 Calculadora de custo e precificação para impressão 3D. Python + PySide6, empacotado para Windows.
 **Status:** Em uso diário
-
-### 🧠 Hermes
-Assistente de IA pessoal, offline e privado, com entrada por voz e texto, múltiplos usuários e busca semântica de ideias.
-**Status:** Pausado — retomada planejada
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroluizbmr) [![BMR 3D](https://img.shields.io/badge/BMR%203D-7C3AED?logo=googlechrome&logoColor=white)](https://bmr3d.com.br) [![NozzleNote](https://img.shields.io/badge/NozzleNote-2563EB?logo=googlechrome&logoColor=white)](https://nozzlenote.com) [![ArtStation](https://img.shields.io/badge/ArtStation-%23131316.svg?logo=artstation&logoColor=white)](https://artstation.com/pedrobm) [![Portfolio](https://img.shields.io/badge/Site%20pessoal-000000?logo=googlechrome&logoColor=white)](https://pedrobortot.com.br) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedrobortot)
 
